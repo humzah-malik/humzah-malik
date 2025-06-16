@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humzah-malik&layout=compact&theme=tokyonight&exclude_repo=Checkers&count_private=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humzah-malik&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=Checkers&count_private=true)
 
 
 <!--

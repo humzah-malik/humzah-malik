@@ -6,7 +6,6 @@
 In the past, I’ve built:
 - 🧠 **ConceptNet**, a web app that transforms lecture transcripts into interactive concept maps and quizzes
 - ⏱️ **Focus Flow**, a study timer that syncs with Todoist and helps users track time spent across tasks
-- ♟️ Worked on a custom C++ AI Checkers game with Qt, implementing Minimax, visual move logic, and undo systems
 
 Currently exploring **machine learning** and **systems design**.
 

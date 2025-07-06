@@ -1,17 +1,17 @@
-## 👋 Hey, I’m Humzah!
+## Hey, I’m Humzah!
 
-🎓 I'm a Computer Science student @ **Western University**, currently seeking **2025–2026 internships**.  
-🛠️ I enjoy building tools that make learning and productivity feel more personal, intuitive, and useful in day-to-day life.
+I'm a Computer Science student @ **Western University**, currently seeking **2025–2026 internships**.  
+I enjoy building tools that make learning and productivity feel more personal, intuitive, and useful in day-to-day life.
 
 In the past, I’ve built:
-- 🧠 **ConceptNet**, a web app that transforms lecture transcripts into interactive concept maps and quizzes
-- ⏱️ **Focus Flow**, a study timer that syncs with Todoist and helps users track time spent across tasks
+- **ConceptNet**, a web app that transforms lecture transcripts into interactive concept maps and quizzes
+- **Focus Flow**, a study timer that syncs with Todoist and helps users track time spent across tasks
 
 Currently exploring **machine learning** and **systems design**.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -51,7 +51,7 @@ Currently exploring **machine learning** and **systems design**.
 
 ---
 
-### 📬 Get in Touch
+### Get in Touch
 
 <p align="left">
   <a href="https://www.linkedin.com/in/humzahmalik076" target="_blank">

@@ -4,8 +4,8 @@ I'm a Computer Science student @ **Western University**, currently seeking **202
 I enjoy building tools that make learning and productivity feel more personal, intuitive, and useful in day-to-day life.
 
 In the past, I’ve built:
+- **RecoveryTrack**, an ML-powered tool that turns daily check-ins into personalized recovery insights based on sleep, training, and stress patterns.
 - **ConceptNet**, a web app that transforms lecture transcripts into interactive concept maps and quizzes
-- **Focus Flow**, a study timer that syncs with Todoist and helps users track time spent across tasks
 
 Currently exploring **machine learning** and **systems design**.
 
